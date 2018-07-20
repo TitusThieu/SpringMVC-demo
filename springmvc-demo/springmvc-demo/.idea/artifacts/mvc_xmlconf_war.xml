@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvc-xmlconf:war">
+    <output-path>$PROJECT_DIR$/mvc-xmlconf/target</output-path>
+    <root id="archive" name="mvc-xmlconf-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mvc-xmlconf:war exploded" />
+    </root>
+  </artifact>
+</component>
